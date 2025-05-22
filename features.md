@@ -4,7 +4,7 @@ title: Features
 ---
 # 🚩 Features
 
-| Feature               | Description                                   |
+| Feature               | Description1                                   |
 |-----------------------|-----------------------------------------------|
 | Instant Deployment    | Updates on every `git push`.                  |
 | Customizable Themes   | Change `_config.yml` to tweak appearance.     |
